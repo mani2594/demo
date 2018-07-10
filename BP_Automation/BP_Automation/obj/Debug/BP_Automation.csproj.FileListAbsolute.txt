@@ -1,0 +1,38 @@
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\BP_Automation.exe.config
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.csprojResolveAssemblyReference.cache
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.Form1.resources
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.Properties.Resources.resources
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.csproj.GenerateResource.Cache
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\BP_Automation.exe
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\BP_Automation.pdb
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.exe
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.pdb
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.SqlEnum.dll
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.Dmf.dll
+C:\Users\m.c.murugesan\Desktop\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.ServiceBrokerEnum.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\BP_Automation.exe.config
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.exe
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.pdb
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\BP_Automation.exe
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\BP_Automation.pdb
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.Win32.TaskScheduler.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.Win32.TaskScheduler.xml
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\de\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\es\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\fr\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\it\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\zh-CN\Microsoft.Win32.TaskScheduler.resources.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.csprojResolveAssemblyReference.cache
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.Form1.resources
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.Properties.Resources.resources
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\obj\Debug\BP_Automation.csproj.GenerateResource.Cache
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.ConnectionInfo.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.ConnectionInfoExtended.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.Smo.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.SmoExtended.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.SqlClrProvider.dll
+C:\Users\mani.murugesan\OneDrive - Accenture\Backup\Automation all\Automation\NewAutomation\BP_Automation\BP_Automation\bin\Debug\Microsoft.SqlServer.SqlEnum.dll

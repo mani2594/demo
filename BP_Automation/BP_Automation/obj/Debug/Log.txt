@@ -1,0 +1,2 @@
+1/4/2018 12:30:44 PM	Hike in CPU Usage: 0%
+1/4/2018 12:30:44 PM	AvailableMB: 488MBMB
