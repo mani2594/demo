@@ -49,8 +49,7 @@
             this.CPULabel = new System.Windows.Forms.Label();
             this.textBox4 = new System.Windows.Forms.TextBox();
             this.error_Box = new System.Windows.Forms.TextBox();
-            this.Backupdetails = new System.Windows.Forms.Label();
-            this.BackupSize = new System.Windows.Forms.Label();
+            this.label1 = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
             // textBox3
@@ -266,32 +265,22 @@
             this.error_Box.Size = new System.Drawing.Size(100, 20);
             this.error_Box.TabIndex = 82;
             // 
-            // Backupdetails
+            // label1
             // 
-            this.Backupdetails.AutoSize = true;
-            this.Backupdetails.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.Backupdetails.Location = new System.Drawing.Point(690, 65);
-            this.Backupdetails.Name = "Backupdetails";
-            this.Backupdetails.Size = new System.Drawing.Size(0, 20);
-            this.Backupdetails.TabIndex = 83;
-            // 
-            // BackupSize
-            // 
-            this.BackupSize.AutoSize = true;
-            this.BackupSize.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-            this.BackupSize.Location = new System.Drawing.Point(680, 65);
-            this.BackupSize.Name = "BackupSize";
-            this.BackupSize.Size = new System.Drawing.Size(94, 20);
-            this.BackupSize.TabIndex = 84;
-            this.BackupSize.Text = "BackupSize";
+            this.label1.AutoSize = true;
+            this.label1.Font = new System.Drawing.Font("Microsoft Sans Serif", 12F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.label1.Location = new System.Drawing.Point(690, 65);
+            this.label1.Name = "label1";
+            this.label1.Size = new System.Drawing.Size(51, 20);
+            this.label1.TabIndex = 83;
+            this.label1.Text = "label1";
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(1180, 325);
-            this.Controls.Add(this.BackupSize);
-            this.Controls.Add(this.Backupdetails);
+            this.Controls.Add(this.label1);
             this.Controls.Add(this.error_Box);
             this.Controls.Add(this.textBox4);
             this.Controls.Add(this.textBox3);
@@ -343,8 +332,7 @@
         protected System.Windows.Forms.Label CPULabel;
         private System.Windows.Forms.TextBox textBox4;
         private System.Windows.Forms.TextBox error_Box;
-        protected System.Windows.Forms.Label Backupdetails;
-        protected System.Windows.Forms.Label BackupSize;
+        protected System.Windows.Forms.Label label1;
     }
 }
 
